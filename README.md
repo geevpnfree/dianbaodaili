@@ -139,7 +139,6 @@ docker run -d \
 
 - [GeeVPN 官网](https://geevpn.com) - 稳定替代免费电报代理的 VPN 方案
 - [Telegram 官方网站](https://telegram.org)
-- [AmneziaWG 开源项目](https://github.com/amnezia-vpn/amneziawg-go)
 
 ---
 
