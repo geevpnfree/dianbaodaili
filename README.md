@@ -61,7 +61,7 @@ https://t.me/socks?server=HOST&port=PORT&user=USER&pass=PASS
 
 ---
 
-## 电报代理替代方案：使用 VPN 稳定访问 Telegram
+## [电报代理替代方案：使用 GeeVPN 稳定访问 Telegram](https://geevpn.com)
 
 当免费电报代理频繁失效时，使用 VPN 是更彻底的解决思路——
 VPN 代理设备全部流量，Telegram 作为其中一个应用自然畅通，
